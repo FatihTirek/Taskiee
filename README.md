@@ -21,3 +21,6 @@ Tired of wrestling with overly complicated to-do list apps? Say hello to Taskiee
 • Quick Notes: Instantly capture thoughts and ideas with lightning-fast note creation.  
 
 Available on Google Play Store: [https://play.google.com/store/apps/details?id=com.dev.taskiee]
+
+## Note
+This project needs refactoring since it's created on previous Flutter version. If you try to rebuild it right now, you are going to encounter with a lot of errors.
